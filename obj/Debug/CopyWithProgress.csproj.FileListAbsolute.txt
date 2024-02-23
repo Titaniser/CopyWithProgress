@@ -5,3 +5,10 @@ C:\Data\SourceCode\TMB\CopyWithProgress\obj\Debug\CopyWithProgress.csproj.Assemb
 C:\Data\SourceCode\TMB\CopyWithProgress\obj\Debug\CopyWithProgress.csproj.CoreCompileInputs.cache
 C:\Data\SourceCode\TMB\CopyWithProgress\obj\Debug\CopyWithProgress.exe
 C:\Data\SourceCode\TMB\CopyWithProgress\obj\Debug\CopyWithProgress.pdb
+C:\Data\SourceCode\copywithProcess\bin\Debug\CopyWithProgress.exe.config
+C:\Data\SourceCode\copywithProcess\bin\Debug\CopyWithProgress.exe
+C:\Data\SourceCode\copywithProcess\bin\Debug\CopyWithProgress.pdb
+C:\Data\SourceCode\copywithProcess\obj\Debug\CopyWithProgress.csproj.AssemblyReference.cache
+C:\Data\SourceCode\copywithProcess\obj\Debug\CopyWithProgress.csproj.CoreCompileInputs.cache
+C:\Data\SourceCode\copywithProcess\obj\Debug\CopyWithProgress.exe
+C:\Data\SourceCode\copywithProcess\obj\Debug\CopyWithProgress.pdb
