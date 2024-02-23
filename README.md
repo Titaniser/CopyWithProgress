@@ -5,7 +5,7 @@ open the Windows-CMD
 
 copyWithProgress.exe source dest
 
-![Example](images/example.jpg)
+![Example](images/example.png)
 
 # explaination
 This is a program that copies files from one location (source) to another location (destination) on a computer.
