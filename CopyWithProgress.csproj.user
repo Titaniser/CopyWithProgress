@@ -3,4 +3,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartArguments>M:\USER\IRM\copytest C:\Install2</StartArguments>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>&lt;source&gt; &lt;destination&gt;</StartArguments>
+  </PropertyGroup>
 </Project>
