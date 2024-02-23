@@ -1,0 +1,7 @@
+C:\Data\SourceCode\TMB\CopyWithProgress\bin\Release\CopyWithProgress.exe.config
+C:\Data\SourceCode\TMB\CopyWithProgress\bin\Release\CopyWithProgress.exe
+C:\Data\SourceCode\TMB\CopyWithProgress\bin\Release\CopyWithProgress.pdb
+C:\Data\SourceCode\TMB\CopyWithProgress\obj\Release\CopyWithProgress.csproj.AssemblyReference.cache
+C:\Data\SourceCode\TMB\CopyWithProgress\obj\Release\CopyWithProgress.csproj.CoreCompileInputs.cache
+C:\Data\SourceCode\TMB\CopyWithProgress\obj\Release\CopyWithProgress.exe
+C:\Data\SourceCode\TMB\CopyWithProgress\obj\Release\CopyWithProgress.pdb
